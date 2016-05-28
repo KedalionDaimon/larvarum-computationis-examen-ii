@@ -223,10 +223,3 @@ Finally, I will show you a Scheme-version that is much larger from the knowledge
 - Nino Ivanov
 
 kedalion.daimon[~at~]gmail.com
-
-
-
-
-
-
-
